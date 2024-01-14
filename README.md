@@ -17,7 +17,7 @@ Here're some of the project's best features:
 
 <h2>🚀 Deployment:</h2>
 
-<p>The MG Game Hub is deployed on Vercel and can be accessed at: <link>https://mg-game-i17flveas-mohamed-dhias-projects.vercel.app</link>.</p>
+<p>The MG Game Hub is deployed on Vercel and can be accessed at: <link>https://mg-game-hub.vercel.app/</link>.</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
